@@ -102,7 +102,8 @@ Identifying each device before performing backup operations helped reduce the ri
 
 ### 5. NVMe SSD Diagnostics
 
-![NVMe SMART diagnostics](screenshots/05-nvme-smart-diagnostics-reconstructed.png)
+![NVMe SMART diagnostics](screenshots/05-nvme-smart-reconstructed.png)
+*Figure 5 — Reconstructed NVMe SMART diagnostic summary based on measurements recorded during the Linux Mint Live USB recovery. The SSD reported zero media errors and 1,056 NVMe error-log entries. These findings did not establish a definitive hardware failure or root cause.*
 
 SMART and NVMe diagnostics were used to investigate the internal SSD.
 
