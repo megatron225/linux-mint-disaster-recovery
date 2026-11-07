@@ -81,3 +81,8 @@ The experience reinforced the importance of a structured troubleshooting process
 It also demonstrated that resolving an incident does not always mean identifying its definitive root cause.
 
 The workstation was successfully restored, while the original cause of the EXT4 journal failure remains undetermined.
+
+
+---
+
+[← Previous: System Restoration](system-restoration.md) | [Back to README](../README.md)
