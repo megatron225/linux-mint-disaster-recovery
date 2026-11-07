@@ -124,3 +124,7 @@ Although the system was restored successfully, the original cause of the EXT4 jo
 This recovery reinforced the importance of verifying system health after restoration rather than assuming that a successful installation means every component is functioning correctly.
 
 Testing individual applications, checking kernel logs, validating backups, and documenting unresolved findings were all important parts of the recovery process.
+
+---
+
+[← Previous: Backup and Recovery](backup-and-recovery.md) | [Back to README](../README.md) | [Next: Lessons Learned →](lessons-learned.md)
