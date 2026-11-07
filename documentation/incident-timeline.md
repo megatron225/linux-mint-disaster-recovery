@@ -105,3 +105,11 @@ Post-recovery checks showed a clean EXT4 filesystem, a read-write root mount, an
 The original incident's definitive root cause remains undetermined.
 
 Further restoration and validation procedures are documented separately in this repository.
+
+---
+
+[← Back to README](../README.md) | [Next: Backup and Recovery →](backup-and-recovery.md)
+
+
+
+
