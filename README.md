@@ -1,5 +1,7 @@
 # Linux Mint Disaster Recovery and System Restoration
 
+<img src="mint.png" alt="Linux Mint logo" width="150">
+
 ## Project Overview
 
 This project documents a hands-on Linux disaster recovery experience involving an EXT4 filesystem failure on a Linux Mint workstation.
